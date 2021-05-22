@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Orbitron');
+
+body{
+    background:  #000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.loading {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 7px;
+}
+
+.triangle {
+    stroke-dasharray: 17;
+    animation: dash 2.5s cubic-bezier(0.35, 0.5, 0.63, 0.95) infinite;
+}
+
+@keyframes dash {
+    to {
+        stroke-dashoffset: 136;
+    }
+}
+
+.circle {
+    stroke-dasharray: 155;
+    animation: dash-circle 2.5s cubic-bezier(0.35, 0.5, 0.63, 0.95) infinite;
+}
+
+@keyframes dash-circle {
+    to {
+        stroke-dashoffset: 100%;
+    }
+}
