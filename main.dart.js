@@ -56791,7 +56791,7 @@ if(s.e==null)s.e=new D.uw(new N.cZ("",C.ef,C.ar),new P.aW(t.V))
 else H.d(H.hR("textController"))},
 p:function(a){this.gze().O$=null
 this.b0(0)},
-R:function(a,b){var s,r=this,q=null,p=L.uo(r.a.c,q,q,q,q,q,q),o=t.p,n=V.a5w(M.dD(q,new T.Ex(C.hC,H.a([M.dD(q,D.a9k(C.fq,new F.a0J(r),C.DU,r.gd3(r).c),q,q,q,q,q,250),M.dD(q,D.a9k(C.fq,new F.a0K(r),C.DV,r.gd3(r).d),q,q,q,q,q,250)],o),q),q,q,q,q,C.bf,q),8),m=r.gze(),l=L.aa4(q,C.eH,q,q,q,q,q,!0,q,q,q,q,q,q,q,q,q,q,q,!0,q,q,q,q,q,"Paste your text here",q,q,q,!1,q,q,q,q,q,q,q,q,q,q,q,q,q,q)
+R:function(a,b){var s,r=this,q=null,p=L.uo(r.a.c,q,q,q,q,q,q),o=t.p,n=V.a5w(M.dD(q,new T.Ex(C.hC,H.a([M.dD(q,D.a9k(C.fq,new F.a0J(r),C.DV,r.gd3(r).c),q,q,q,q,q,250),M.dD(q,D.a9k(C.fq,new F.a0K(r),C.DU,r.gd3(r).d),q,q,q,q,q,250)],o),q),q,q,q,q,C.bf,q),8),m=r.gze(),l=L.aa4(q,C.eH,q,q,q,q,q,!0,q,q,q,q,q,q,q,q,q,q,q,!0,q,q,q,q,q,"Paste your text here",q,q,q,!1,q,q,q,q,q,q,q,q,q,q,q,q,q,q)
 m=V.a5w(M.dD(q,new Z.ux(m,l,C.ho,C.kV,C.kW,15,C.E0,q),q,q,q,q,C.bf,q),8)
 l=b.S(t.w).f
 s="Number of elements not repeated: "+r.gd3(r).b+"\n\n"+r.gd3(r).a
@@ -60793,8 +60793,8 @@ C.CY=new A.m(!0,null,null,null,null,null,14,C.a6,null,1.25,null,C.n,null,null,nu
 C.BM=new A.m(!0,null,null,null,null,null,10,C.o,null,1.5,null,C.n,null,null,null,null,null,null,null,null,null,"englishLike overline 2018",null,null)
 C.DT=new R.cx(C.AB,C.AQ,C.AC,C.AD,C.AE,C.Cf,C.Ap,C.AV,C.B8,C.B9,C.CN,C.CY,C.BM)
 C.lc=new U.E0("TextWidthBasis.longestLine")
-C.DU=new L.oi("Alphabetical Sort",null,null,null,null,null,null,null)
-C.DV=new L.oi("Reverse Sorting",null,null,null,null,null,null,null)
+C.DU=new L.oi("Reversed",null,null,null,null,null,null,null)
+C.DV=new L.oi("Alphabetical Sort",null,null,null,null,null,null,null)
 C.FZ=new S.Yl("ThemeMode.system")
 C.DW=new M.uF(null)
 C.d5=new P.ou(0,"TileMode.clamp")
