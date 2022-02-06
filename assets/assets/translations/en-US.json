@@ -1,0 +1,11 @@
+{
+    "app_name": "Remove Duplicates",
+    "alphabetical_sort": "Alphabetical Sort",
+    "reversed": "Reversed",
+    "copied": "Copied",
+    "copy": "Copy",
+    "paste": "Paste your text here",
+    "num_elemen_not_rep": "Number of elements not repeated:",
+    "no_elemen_copied": "No elements to copied",
+    "run":"Run"
+}
